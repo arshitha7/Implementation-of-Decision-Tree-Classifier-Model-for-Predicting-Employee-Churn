@@ -1,4 +1,4 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/cc857999-5104-4e06-8e21-9d85a144a475)# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -76,13 +76,28 @@ dt.predict([[0.5, 0.8, 9, 260, 6, 0, 1, 2]])
 
 ## Output:
 ### Head:
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/d6580fa8-13d0-408e-88c3-632e0796d46a)
+
 ### Data.info():
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/cefca8e2-2b5a-4ccf-bf8b-332932e10ee4)
+
 ### isnull() and sum():
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/b6359d32-8b08-4486-9929-2b0d041c7862)
+
 ### Data Value Counts():
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/9c4f9d91-ac2e-42cd-9c19-3a5af4427d60)
+
 ### Data.head() for salary:
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/706fe879-72d5-44fe-a823-b63edaeb47a1)
+
 ### x.head:
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/8ca2c3ef-8efa-4d0a-afb8-647a9ff55751)
+
 ### Accuracy Value:
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/8367b0a1-41c4-4f7c-ab71-42b088043a53)
+
 ### Data Prediction:
+![image](https://github.com/arshitha7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144979143/cc6a39bf-de06-4c02-9c3b-fac826c35a06)
 
 
 
